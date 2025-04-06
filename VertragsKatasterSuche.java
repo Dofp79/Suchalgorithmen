@@ -1,3 +1,14 @@
+/* 
+Szenario: Vertragskataster – Suche nach Vertragsnummern
+
+Was soll passieren?
+Du hast eine Liste mit Vertragsnummern im Vertragskataster.
+Du suchst gezielt nach einer bestimmten Nummer – z. B. 1234.
+Du vergleichst, wie der Vertrag mit:
+    - Lineare Suche (unsortiert möglich)
+    - Binäre Suche (sortierte Liste nötig) 
+*/
+
 import java.util.Arrays;
 
 public class VertragsKatasterSuche {
