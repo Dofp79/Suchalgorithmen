@@ -67,3 +67,9 @@ public class VertragsKatasterSuche {
         return -1; // Nicht gefunden
     }
 }
+/*
+java VertragsKatasterSuche.java
+ Suche nach Vertrag: 1234
+ Lineare Suche: Vertrag gefunden an Position 1
+ Binäre Suche: Vertrag gefunden an Position 4 (in sortierter Liste)
+*/
