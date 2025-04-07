@@ -1,4 +1,4 @@
-
+/*
 Ziel dieses Schritts:
  - Benutzer kann nach Vertragsnummer, Name oder Datum suchen
  - Verträge werden aus einer Datei geladen
